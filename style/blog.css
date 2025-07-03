@@ -1,0 +1,8 @@
+div {
+  background-color: brown;
+  width: 500px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
